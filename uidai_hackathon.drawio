@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T14:51:54.293Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="433ezP48w4V91tJdBQMV" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T15:11:10.557Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="lo5IOyJ4fac07olnenGC" version="15.5.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1240" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="4" y="64" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QJRBWMiN4yP4uXgoTAv8-18" value="Aadhaar Server" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;shadow=0;sketch=0;fontSize=13;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="900" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
